@@ -1,2 +1,2 @@
-# SPS
-SPS stands for Simple Phisics Simulator
+# SPL
+SPL stands for Simple Phisics Library
