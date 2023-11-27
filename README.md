@@ -1,2 +1,2 @@
-# SPL
-SPL stands for Simple Phisics Library
+# SPAML
+SPL stands for Simple Physics And Math Library
